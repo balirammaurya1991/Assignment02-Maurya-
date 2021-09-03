@@ -37,3 +37,14 @@ Silicon valley is a hub for software industries even it's headquater of some man
     * Talk to friends
 
 [Take me to Aboutme page](AboutMe.md)
+
+
+***
+
+###### Food/Drinks list:
+| Food/Drink   | Location  | Amount|
+| -----------  | --------  |-------|
+| Apple juice  | W almart  | 2.0 $|
+| Cheese Burger| McDonald  | 1.5 $ 
+| Pizza        | Dominoz   | 2 $ |
+| Pasta        | Dinning Hall| 2 $| 
