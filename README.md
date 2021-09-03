@@ -53,6 +53,6 @@ Silicon valley is a hub for software industries even it's headquater of some man
 ***
 ## Quote:
 > All art is a kind of confession
-* James Baldwin *
+*James Baldwin*
 > Impossible is just an opinion
-* Paulo Coelho *
+*Paulo Coelho*
