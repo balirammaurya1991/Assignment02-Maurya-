@@ -48,3 +48,11 @@ Silicon valley is a hub for software industries even it's headquater of some man
 | Cheese Burger| McDonald    | 1.5 $ 
 | Pizza        | Dominoz     | 2 $ |
 | Pasta        | Dinning Hall|2 $| 
+
+
+***
+## Quote:
+> All art is a kind of confession
+* James Baldwin*
+> Impossible is just an opinion
+* Paulo Coelho*
