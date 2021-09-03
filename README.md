@@ -17,3 +17,23 @@ Silicon valley is a hub for software industries even it's headquater of some man
      3. By Car
      4. By Train
 
+     
+###### Things to enjoy:
+
+    * Play Game
+
+    * Fix something
+
+    * Play an instrument
+
+    * Sing to yourself
+
+    * Work in a garden
+
+    * Find ways to recycle stuff
+
+    * Write a poem or short story
+
+    * Talk to friends
+
+
